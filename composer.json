@@ -1,0 +1,13 @@
+{
+    "name": "953788503/liu222",
+    "description": "a test project",
+    "type": "project",
+    "authors": [
+        {
+            "name": "953788503",
+            "email": "953788503@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
